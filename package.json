@@ -1,0 +1,26 @@
+{
+  "name": "tablero_oscar_merino",
+  "version": "1.0.0",
+  "description": "como examen del parcial se debe de hacer un tablero de ajedrez",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ExamenParcialDA1_Oscar_Merino"
+  },
+  "keywords": [
+    "ajedrez",
+    "tablero",
+    "web",
+    "examen"
+  ],
+  "author": "oscar merino",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}

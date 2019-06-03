@@ -1,0 +1,31 @@
+body{
+    background-color: burlywood;
+}
+
+h3{
+    text-align: center;
+    color: cornflowerblue;
+    font-family: sans-serif;
+}
+
+.Tablero{
+    width: 600px;
+    height: 600px;
+}
+
+.fila-casillas{
+    width: 600px;
+    height: 12.5%;
+}
+
+.casilla-negra{
+    width: 12.5%;
+    height: 100%;
+    background-color: black;
+}
+
+.casilla-blanca{
+    width: 12.5%;
+    height: 100%;
+    background-color: whitesmoke;
+}
